@@ -3,6 +3,7 @@
 |:---:|:---:|:---:|
 |![Team](https://raw.githubusercontent.com/xentaos/xenta-x-icons/master/build/Xenta-X/apps/96/config-users.png)<br>Kunjungi halaman Xenta OS - Developer [Team](http://www.xentaos.com/p/team.html)|![Mission](https://raw.githubusercontent.com/xentaos/xenta-x-icons/master/build/Xenta-X/apps/96/cs-details.png)<br>Kunjungi halaman Xenta OS - Developer [Mission](http://www.xentaos.com/p/mission.html)|![Progress](https://raw.githubusercontent.com/xentaos/xenta-x-icons/master/build/Xenta-X/apps/96/cs-startup-programs.png)<br>Kunjungi halaman Xenta OS - Developer [Progress](http://www.xentaos.com/p/progress.html)|
 
+[![Download Xenta OS Packages](https://img.shields.io/sourceforge/dt/xenta-os.svg)](https://sourceforge.net/projects/xenta-os/files/latest/download)
 ![GitHub issues](https://img.shields.io/github/issues/xentaoslinux/perilisan.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/xentaoslinux/perilisan.svg)
 ![GitHub forks](https://img.shields.io/github/forks/xentaoslinux/perilisan.svg?style=social)  
