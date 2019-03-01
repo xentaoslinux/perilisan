@@ -32,3 +32,6 @@ Pemasangan Perangkat Lunak melalui APT (Debian/Ubuntu/Linux Mint/Xenta OS).
  * Memasang Perangkat Lunak yang dibutuhkan.
 > ***Kebijakan:**  
 >  * Diijinkan menggunakan Distro selain Xenta OS dengan syarat memasang Xenta OS secara Virtual atau Dual Boot.
+
+**Thanks**  
+[![Download Xenta OS Packages](https://sourceforge.net/sflogo.php?type=16&group_id=2820841)](https://sourceforge.net/p/xenta-os/)
