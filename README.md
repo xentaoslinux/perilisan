@@ -1,7 +1,7 @@
 # Perilisan
 |**Team**|**Mission**|**Progress**|
 |:---:|:---:|:---:|
-|![Team](https://raw.githubusercontent.com/xentaos/xenta-x-icons/master/build/Xenta-X/apps/96/config-users.png)<br>Kunjungi halaman Xenta OS - Developer [Team](http://www.xentaos.com/p/team.html)|![Mission](https://raw.githubusercontent.com/xentaos/xenta-x-icons/master/build/Xenta-X/apps/96/cs-details.png)<br>Kunjungi halaman Xenta OS - Developer [Mission](http://www.xentaos.com/p/mission.html)|![Progress](https://raw.githubusercontent.com/xentaos/xenta-x-icons/master/build/Xenta-X/apps/96/cs-startup-programs.png)<br>Kunjungi halaman Xenta OS - Developer [Progress](http://www.xentaos.com/p/progress.html)|
+|![Team](https://raw.githubusercontent.com/xentaos/xenta-x-icons/master/build/Xenta-X/apps/96/config-users.png)<br>Kunjungi halaman Xenta OS - Developer [Team](https://xentaos.blogspot.com/p/team.html)|![Mission](https://raw.githubusercontent.com/xentaos/xenta-x-icons/master/build/Xenta-X/apps/96/cs-details.png)<br>Kunjungi halaman Xenta OS - Developer [Mission](https://xentaos.blogspot.com/p/mission.html)|![Progress](https://raw.githubusercontent.com/xentaos/xenta-x-icons/master/build/Xenta-X/apps/96/cs-startup-programs.png)<br>Kunjungi halaman Xenta OS - Developer [Progress](https://xentaos.blogspot.com/p/progress.html)|
 
 [![Download Xenta OS Packages](https://img.shields.io/sourceforge/dt/xenta-os.svg)](https://sourceforge.net/projects/xenta-os/files/latest/download)
 ![GitHub issues](https://img.shields.io/github/issues/xentaoslinux/perilisan.svg)
@@ -10,7 +10,7 @@
 Made with <span style="color: #e25555;">&#9829;</span> in Indonesia ![flag](http://www.flags-and-anthems.com/images/flags/i/flag-indonesia-wehende-flagge-12x18.gif)
 
 ---
-Xenta OS adalah Distribusi Sistem Operasi GNU/Linux Lokal Indonesia. Proyek ini terbuka bagi siapa saja yang mau berkontribusi. Tujuan didirikannya proyek ini salah satunya sebagai wadah berkreatifitas dan berkomunitas sesama penggiat GNU/Linux asal Indonesia. Tertarik bergabung Menjadi Tim Dokumentasi ? [Ayo Gabung!](http://www.xentaos.com/p/join.html)
+Xenta OS adalah Distribusi Sistem Operasi GNU/Linux Lokal Indonesia. Proyek ini terbuka bagi siapa saja yang mau berkontribusi. Tujuan didirikannya proyek ini salah satunya sebagai wadah berkreatifitas dan berkomunitas sesama penggiat GNU/Linux asal Indonesia. Tertarik bergabung Menjadi Tim Dokumentasi ? [Ayo Gabung!](https://xentaos.blogspot.com/p/join.html)
 
 **Required:**  
 Download Image ISO Tester.
